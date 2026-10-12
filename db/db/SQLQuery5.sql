@@ -1,0 +1,1 @@
+SELECT SERVERPROPERTY('InstanceDefaultDataPath') AS DataPath;
